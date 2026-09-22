@@ -113,3 +113,10 @@ After training, the project displays:
 
 The final result depends on the quality and size of the dataset.
 
+### Sample Prediction Outputs
+
+#### Normal Road Prediction
+![Normal Road Prediction Output](normalroad.png)
+
+#### Pothole Prediction
+![Pothole Prediction Output](pothole.png)
